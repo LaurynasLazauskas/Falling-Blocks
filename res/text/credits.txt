@@ -1,0 +1,17 @@
+Sounds were created using:
+sfxr - free sound effect generator
+By DrPetter www.drpetter.se
+
+
+Font used in game is:
+Uni 05_X
+By Craig Kroeger www.miniml.com
+
+
+Programming library:
+Allegro5
+www.allegro.cc
+
+
+Game developed by
+Laurynas Lazauskas
