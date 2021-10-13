@@ -6,6 +6,13 @@ A modified take on popular game Tetris written in C++ using Allegro5.
 
 > :warning: **This project is old**: do not expect clean or exemplary code !
 
+## Controls
+<kbd>←</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>→</kbd> - move around
+
+<kbd>z</kbd> <kbd>x</kbd> - rotate
+
+<kbd>space</kbd> - drop
+
 ## How to run
 
 The game is provided as source only. Use the script provided below to build and run the game yourself. Note that the script is targeted at Ubuntu. Adapt to your own system before running.
